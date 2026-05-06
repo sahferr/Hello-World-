@@ -6,9 +6,11 @@ const objetivo = {
 
   github: {
     objetivo:
-      "Este GitHub tem como objetivo expor projetos iniciados na faculdade e outras soluções desenvolvidas para demonstrar minha evolução e experiência na área de engenharia de software."
+      "Engenharia de Software."
   }
 };
 
 console.log(objetivo);
 ```
+
+Este GitHub tem como objetivo expor projetos iniciados na faculdade e outras soluções desenvolvidas para demonstrar minha evolução e experiência na área de engenharia de software."
